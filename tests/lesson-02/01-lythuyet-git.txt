@@ -1,0 +1,8 @@
+1.Git init: 
+    Dùng để khởi tạo một Repository mới khi file từ local chuyển từ vùng Local sang vùng Working directory
+2.Git add <file_name>
+    Dùng để thêm file từ vùng working directory sang vùng Staging area
+3.Git add .
+    Dùng để thêm toàn bộ file đã thay đổi lên vùng staging directory
+4.Git commit -m "Message"
+    Dùng để tạo commit lưu lại trạng thái hiện tại của source code

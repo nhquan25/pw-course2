@@ -1,0 +1,11 @@
+a. Tạo 3 file: file1, file2, file3
+b. Chạy lệnh: git init
+=>Khởi tạo repo local
+c. Chạy lệnh: git commit -m "init project"
+=>Tạo ra các phiên bản khi có sự thay đổi
+d. Chạy lệnh: git add file1
+=>Thêm file1 vào vùng Staging
+e. Chạy lệnh: git commit -m "add file1"
+=>Tạo phiên bản commit với message "add file1"
+f. Chạy lệnh: git commit -m "add file"
+=>Tạo phiên bản commit với message "add file"
